@@ -91,7 +91,7 @@ h2 {
 
 .hero{
     height: 300px;
-    background-color: #000000;
+    background-color: #1b2127;
     justify-content: space-between;
     display: flex;
     flex-wrap: wrap;
@@ -174,7 +174,7 @@ h2 {
 }
 
 .header{
-    background-color: #1b2127;
+    background-color: #000000;
     color: white;
     display: flex;
     height: 120px;
