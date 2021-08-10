@@ -279,12 +279,9 @@ figure{
     font-family: 'tesla';
 }
 
-.experience-list-title{
-    margin-left: 20px;
-    font-family: 'tesla';
-}
-
+.experience-list-title,
 .portfolio-title{
+    margin-left: 20px;
     font-family: 'tesla';
 }
 
