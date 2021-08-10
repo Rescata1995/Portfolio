@@ -653,6 +653,11 @@ figure{
 }
 
 @media screen and (max-width: 480px){
+    
+    .logoRescata{
+        height: 45px;
+    }
+    
     .hero-image{
         object-position: 0px -45px;
     }
