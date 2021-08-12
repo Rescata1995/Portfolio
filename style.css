@@ -611,18 +611,6 @@ figure{
         left: 0;
     }
 
-    .project{
-        display: block;
-    }
-
-    .project-details{
-        width: auto;
-    }
-
-    .project-imageContainer{
-        width: auto;
-    }
-
     .project-details{
         font-size: 16px;
     }
