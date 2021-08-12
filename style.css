@@ -475,6 +475,17 @@ figure{
 }
 
 @media screen and (max-width: 1024px){
+    .project{
+        display: block;
+    }
+
+    .project-details{
+        width: auto;
+    }
+
+    .project-imageContainer{
+        width: auto;
+    }
 
     .presentation-responsive{
         color: rgb(0, 0, 0, .7);
