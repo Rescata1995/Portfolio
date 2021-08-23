@@ -475,6 +475,10 @@ figure{
 }
 
 @media screen and (max-width: 1024px){
+    .portfolio-title{
+        margin-left: 3px;
+    }  
+    
     .project{
         display: block;
     }
@@ -652,6 +656,9 @@ figure{
 }
 
 @media screen and (max-width: 480px){
+    .portfolio-title{
+        margin-left: 10px;
+    } 
     
     .logoRescata{
         height: 45px;
@@ -719,6 +726,9 @@ figure{
 }
 
 @media screen and (max-width: 320px){
+    .portfolio-title{
+        margin-left: 15px;
+    }
 
     .hero-image{
         object-position: -65px -50px;
