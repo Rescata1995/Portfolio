@@ -504,6 +504,10 @@ figure{
     .presentation{
         display: none;
     }
+    
+    .badge-base-LI-profile-badge{
+        display: none;
+    }
 
     .hero-image{
         object-position: 0px -80px;
