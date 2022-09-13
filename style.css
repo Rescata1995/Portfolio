@@ -410,11 +410,11 @@ figure{
 .social-link.linkedin{
     background-image: url('./images/linkedin1.svg');
     background-size: 50px 50px;
+    border-radius: 3px;
 }
 
 .social-link.linkedin:hover{
     background-color: #0A66C2;
-    border-radius: 10px;
 }
 
 .social-link.linkedin:active{
