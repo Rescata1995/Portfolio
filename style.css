@@ -129,7 +129,6 @@ h2 {
 .hero-image{
     object-fit: cover;
     border-radius: 10px 10px 0 0;
-
 }
 
 .portfolio {
@@ -508,8 +507,9 @@ figure{
     }
     
     #linkedin-responsive{
-        display: flex;
-        justify-content: center;
+        display: none;
+        
+        /*ESTE DEBERIA CONFIGURARSE, LAMENTABLEMENTE NO HE ENCONTRADO LA FORMA DE HACER UN DISEÑO 'RESPONSIVE'*/
     }
 
     .presentation{
