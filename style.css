@@ -506,7 +506,7 @@ figure{
     }
     
     #linkedin-responsive{
-        display: inline;
+        display: block;
     }
 
     .presentation{
