@@ -120,6 +120,10 @@ h2 {
     display: none;
 }
 
+#linkedin-responsive{
+    display: none;
+}
+
 /* Fin de edición */
 
 .hero-image{
@@ -499,6 +503,10 @@ figure{
     
     .presentation-responsive strong{
         color: rgb(229,79,50, .95);
+    }
+    
+    #linkedin-responsive{
+        display: inline;
     }
 
     .presentation{
