@@ -504,6 +504,10 @@ figure{
     .presentation{
         display: none;
     }
+    
+    #linkedin{
+        display: none;
+    }
 
     .hero-image{
         object-position: 0px -80px;
@@ -549,10 +553,6 @@ figure{
 }
 
 @media screen and (max-width: 767px){
-    
-    #linkedin{
-        display: none;
-    }
     
     .burguer-button{
         display: block;
