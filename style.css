@@ -407,17 +407,17 @@ figure{
     transform: scale(.95);
 }
 
-.social-link.instagram{
-    background-image: url('./images/instagram.svg');
+.social-link.linkedin{
+    background-image: url('./images/linkedin1.svg');
     background-size: 50px 50px;
 }
 
-.social-link.instagram:hover{
-    background-color: #F66041;
-    border-radius: 16px;
+.social-link.linkedin:hover{
+    background-color: #0A66C2;
+    border-radius: 10px;
 }
 
-.social-link.instagram:active{
+.social-link.linkedin:active{
     transform: scale(.95);
 }
 
