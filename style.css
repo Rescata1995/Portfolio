@@ -558,10 +558,6 @@ figure{
 }
 
 @media screen and (max-width: 767px){
-    #linkedin{
-        display: none;
-    }
-    
     .burguer-button{
         display: block;
     }
@@ -668,10 +664,6 @@ figure{
 }
 
 @media screen and (max-width: 480px){
-    #linkedin{
-        display: none;
-    }
-    
     .portfolio-title{
         margin-left: 10px;
     } 
