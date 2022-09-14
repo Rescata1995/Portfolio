@@ -506,10 +506,6 @@ figure{
         color: rgb(229,79,50, .95);
     }
     
-    #linkedin-responsive{
-        display: none;
-        
-        /*ESTE DEBERIA CONFIGURARSE, LAMENTABLEMENTE NO HE ENCONTRADO LA FORMA DE HACER UN DISEÑO 'RESPONSIVE'*/
     }
 
     .presentation{
